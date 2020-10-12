@@ -1,5 +1,3 @@
-console.log('Welcome to app.js')
-
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('.p1')
